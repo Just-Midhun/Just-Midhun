@@ -29,5 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-midhun&show_icons=true&locale=en&layout=compact" alt="just-midhun" /></p>
 <br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-midhun&" alt="just-midhun" /></p>
+<br></br>
+<a href="https://github.com/Just-Midhun/Just-Midhun/blob/main/MidhunCV.pdf?raw=true" >For More Information</a>
 
 </div>

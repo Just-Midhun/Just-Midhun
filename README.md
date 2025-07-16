@@ -3,13 +3,13 @@
 
 <div align="center">
 
-🔭 I’m currently working on **Expansive programming**
+🔭 I’m currently working on **Expansive programming - Java, C, PLSQL, Python**
 
-🌱 I’m currently learning **MERN**
+🌱 I’m currently learning **Networking and scripting**
 
 👯 I’m looking to open **Collaborations**
 
-💬 Ask me about **Flutter, UI Designing, Machine Learning**
+💬 Ask me about **Flutter, UI Designing, Machine Learning, Networking**
 
 📫 How to reach me **midhunworks29@gmail.com**
 
